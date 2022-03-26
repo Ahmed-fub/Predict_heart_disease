@@ -1,9 +1,10 @@
 # Predict heart disease using Machine learning 
 
-supervision classification problem to predict the presence of heart disease depend on some features 
+using machine learning to solve a supervision classification problem to predict the presence of heart disease depend on some features 
 
 ## Data 
-Heart Disease Data Set from UCI 
+Heart Disease Data Set from UCI  
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data 
 
 ### Features
 
